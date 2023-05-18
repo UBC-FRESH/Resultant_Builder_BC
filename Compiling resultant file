@@ -1,6 +1,0 @@
-# Build Resultant File
-Builds the resultant files
-This section of code takes the cleaned up layers and attirbues tables and pushes them together into one layer called the resultant. 
-It then removes tidies up the resulant file by reparing the geometry, changing multipart to single part polygons and eliminating sliver and low area polygons by merging them with their largest neighbour. 
-This code builds on and updates original code y Dr. Cosmin Mann.
-
